@@ -22,7 +22,7 @@
 ###############################################################################
 *.cmd       text
 *.config    text
-*.cs        text diff=csharp
+*.cs        linguist-language=csharp
 *.csproj    text
 *.groovy    text
 *.json      text
