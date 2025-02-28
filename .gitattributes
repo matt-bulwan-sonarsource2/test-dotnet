@@ -22,7 +22,7 @@
 ###############################################################################
 *.cmd       text
 *.config    text
-*.cs        linguist-language=csharp
+*.cs        linguist-language=fsharp
 *.csproj    text
 *.groovy    text
 *.json      text
