@@ -10,7 +10,7 @@ namespace Miniblog.Core
 
         public PostListView ListView { get; set; } = PostListView.TitlesAndExcerpts;
 
-        public string Owner { get; set; } = "The Matt";
+        public string Owner { get; set; } = "The Matt ";
 
         public int PostsPerPage { get; set; } = 4;
     }
