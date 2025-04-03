@@ -6,7 +6,7 @@ namespace Miniblog.Core
 
         public bool DisplayComments { get; set; } = false;
 
-        public bool DisplayOwners6 { get; set; } = false;
+        public bool DisplayOwners9 { get; set; } = false;
 
         public PostListView ListView { get; set; } = PostListView.TitlesAndExcerpts;
 
