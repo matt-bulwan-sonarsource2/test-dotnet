@@ -6,7 +6,7 @@ namespace Miniblog.Core.Models
     {
         [Required]
         [DataType(DataType.Password)]
-        public string Password2 { get; set; } = string.Empty;
+        public string Password3 { get; set; } = string.Empty;
 
         [Display(Name = "Remember me?")]
         public bool RememberMe { get; set; } = false;
