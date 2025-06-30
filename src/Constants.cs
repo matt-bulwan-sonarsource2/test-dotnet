@@ -4,7 +4,7 @@ namespace Miniblog.Core
 
     public static class Constants
     {
-        public static readonly string AllCats = "AllCats";
+        public static readonly string AllCats = "AllCatsAndDogs";
         public static readonly string AllTags = "AllTags";
         public static readonly string categories = "categories";
         public static readonly string tags = "tags";
