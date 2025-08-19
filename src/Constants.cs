@@ -11,7 +11,7 @@ namespace Miniblog.Core
         public static readonly string Dash = "-";
         public static readonly string Description = "Description";
         public static readonly string Head = "Head";
-        public static readonly string next = "next2";
+        public static readonly string next = "next5";
         public static readonly string page = "page";
         public static readonly string Preload = "Preload";
         public static readonly string prev = "prev";
