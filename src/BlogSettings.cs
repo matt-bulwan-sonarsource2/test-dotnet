@@ -4,7 +4,7 @@ namespace Miniblog.Core
     {
         public int CommentsCloseAfterDays { get; set; } = 45;
 
-        public bool DisplayComments { get; set; } = false;
+        public bool DisplayComments { get; set; } = true;
 
         public bool DisplayOwners3 { get; set; } = false;
 
