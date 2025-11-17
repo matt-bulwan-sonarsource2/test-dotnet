@@ -2,7 +2,7 @@ namespace Miniblog.Core
 {
     public class BlogSettings
     {
-        public int CommentsCloseAfterDays { get; set; } = 10;
+        public int CommentsCloseAfterDays { get; set; } = 6;
 
         public bool DisplayComments { get; set; } = false;
 
